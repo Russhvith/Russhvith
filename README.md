@@ -26,7 +26,7 @@
 <br><br><br><br><br><br><br><br><br>
 
 <div align=center>
-   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=russhvith&title_color=61dafb&text_color=ffffff&bg_color=20232a&langs_count=8&layout=compact" />
+   <img align="center" width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=russhvith&title_color=61dafb&text_color=ffffff&bg_color=20232a&langs_count=8&layout=compact" />
 </div>
 
 <br>
