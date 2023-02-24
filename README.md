@@ -10,4 +10,4 @@
 
 - 👨‍💻 Learning to write code in **C#**, **PHP** & **GO**
 
-- ✨ Talk to me either on **<a href="https://www.example.com"> Discord </a>** or **Email**
+- ✨ Talk to me either on **<a href="https://discord.com/users/649224444056961054">Discord</a>** or **<a href="mailto:russhvith@russhvith.tech">Email</a>**
