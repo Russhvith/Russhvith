@@ -42,9 +42,9 @@
 <h4 align="left"><a href="https://discord.com/users/649224444056961054">Discord</a></h4>
 
 <h4 align="left"><a href="https://youtube.com/@Russhvith">Youtube</a></h4>
-<br>
+
 <h4 align="left"><a href="https://russhvith.tech">Website</a></h4>
-<br>
+
 <h4 align="left"><a href="mailto:russhvith@russhvith.tech">Email</a></h4>
 
 
