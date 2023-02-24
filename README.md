@@ -39,9 +39,14 @@
 
 
 <img src="https://discord.c99.nl/widget/theme-2/649224444056961054.png" alt="Discord Widget">
-<h4 align="left"><a href="https://discord.com/users/649224444056961054">Discord</a></h2>
+<h4 align="left"><a href="https://discord.com/users/649224444056961054">Discord</a></h4>
 
-<a href="https://www.youtube.com/@Russhvith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="russhvith" height="30" width="40" /></a>
+<h4 align="left"><a href="https://youtube.com/@Russhvith">Youtube</a></h4>
+<br>
+<h4 align="left"><a href="https://russhvith.tech">Website</a></h4>
+<br>
+<h4 align="left"><a href="mailto:russhvith@russhvith.tech">Email</a></h4>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
