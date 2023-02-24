@@ -4,5 +4,5 @@
    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+Mates!;I+Am+Russhvith&center=true&size=30">
 </h1>
 
-<img src="https://github-profile-trophy.vercel.app/?username=russhvith&theme=discord&no-bg=true"></a> </p>
+<img src="[https://github-profile-trophy.vercel.app/?username=russhvith&theme=discord&no-bg=true&column=-1](https://github-profile-trophy.vercel.app/?username=russhvith&theme=discord&no-bg=true&column=-1)"></a> </p>
 
