@@ -41,5 +41,5 @@
 <img src="https://discord.c99.nl/widget/theme-2/649224444056961054.png" alt="Discord Widget">
 <h4 align="left"><a href="https://discord.com/users/649224444056961054">Discord</a></h2>
 
-<iframe src="https://media.discordapp.net/attachments/863055272116879360/1078717466580111380/image.png?width=1500&height=800" width="100%" height="500"></iframe>
+<img src="https://media.discordapp.net/attachments/863055272116879360/1078717466580111380/image.png?width=1500&height=800" width="100%" height="500">
 <h4 align="left"><a href="https://russhvith.tech">Website</a></h2>
