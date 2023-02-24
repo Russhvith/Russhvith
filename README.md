@@ -6,3 +6,8 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=russhvith&theme=discord&no-bg=true&column=-1"></a> </p>
 
+- 🎮 Currently working on project **FloraMC**
+
+- 👨‍💻 Learning to write code in **C#**, **PHP** & **GO**
+
+- ✨ Talk to me either on **<a href="https://www.example.com"> Discord </a>** or **Email**
