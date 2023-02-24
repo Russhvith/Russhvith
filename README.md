@@ -3,3 +3,6 @@
 <h1 align="center">
    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+Mates!;I+Am+Russhvith&center=true&size=30">
 </h1>
+
+<img src="https://github-profile-trophy.vercel.app/?username=russhvith&theme=discord&no-bg=true&row=3&column=3"></a> </p>
+
