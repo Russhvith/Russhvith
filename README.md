@@ -37,5 +37,5 @@
 
 <h2 align="center">My Socials</h2>
 
-<img align="center" src="https://discord.c99.nl/widget/theme-2/649224444056961054.png" />
+<center><img src="https://discord.c99.nl/widget/theme-2/649224444056961054.png"></center>
 <h4 align="center"><a href="https://discord.com/users/649224444056961054">Discord</a></h2>
