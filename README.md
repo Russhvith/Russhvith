@@ -14,7 +14,7 @@
 
 - 📎 Check more info about me on **<a href="https://russhvith.tech">my website</a>** 
 
-<h2 align="center">My Github Info </h2>
+<h2 align="center">My Github Info</h2>
 
 <br>
 
@@ -32,5 +32,10 @@
 <br>
 
 <div align="center">
-   <a href="https://github.com/russhvith?tab=repositories">Show More</a>
+   <a href="https://github.com/Russhvith?tab=repositories">Show All Repositories</a>
 </div>
+
+<h2 align="center">My Socials</h2>
+
+<img align="center" src="https://discord.c99.nl/widget/theme-2/649224444056961054.png" />
+<h4 align="center"><a href="https://discord.com/users/649224444056961054">Discord</a></h2>
