@@ -10,9 +10,9 @@
 
 - 👨‍💻 Learning to write code in **C#**, **PHP** & **GO**
 
-- ✨ Talk to me either on **<a href="https://discord.com/users/649224444056961054">Discord</a>** or **<a href="mailto:russhvith@russhvith.tech">Email</a>**
+- ✨ Talk to me either on **<a href="https://discord.com/users/649224444056961054">Discord</a>** or **<a href="mailto:me@russhvith.dev">Email</a>**
 
-- 📎 Check more info about me on **<a href="https://russhvith.tech">my website</a>** 
+- 📎 Check more info about me on **<a href="https://russhvith.dev">my website</a>** 
 
 <br>
 <h2 align="center">My Github Info</h2>
@@ -47,7 +47,7 @@
 
 <h4 align="left"><a href="https://russhvith.tech">Website</a></h4>
 
-<h4 align="left"><a href="mailto:russhvith@russhvith.tech">Email</a></h4>
+<h4 align="left"><a href="mailto:me@russhvith.dev">Email</a></h4>
 
 
 
